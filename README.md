@@ -1,13 +1,13 @@
 # Awesome Cloud Native Trainings
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*It just started as a [post](https://joseadanof.medium.com/cloud-native-free-training-and-certifications-4c86851659f8) in Medium where I was collecting all the free trainings with and without certificates that were released from different companies supporting Cloud Native Computing Foundation Projects and Kubernetes related OSS.*
+*It just started as a [post](https://joseadanof.medium.com/cloud-native-free-training-and-certifications-4c86851659f8) in Medium where I was collecting all the free trainings with and without certificates released by companies supporting Cloud Native Computing Foundation Projects and Kubernetes-related OSS.*
 
-*Whether you are studying for a Kubernetes Certification or powering your career as DevOps Engineer, Cloud Engineer, Platform Engineer, Cloud Developer, Developer Advocate, or SRE,  this set of trainings could prepare you well to face many Cloud Native transformation challenges*
+*Whether you are studying for a Kubernetes Certification or powering your career as DevOps Engineer, Cloud Engineer, Platform Engineer, Cloud Developer, Developer Advocate, or SRE, this set of trainings could prepare you well to face many Cloud Native transformation challenges.*
 
-You can get 50, yes, more than ***50*** certificates or badges from this awesome repository of training.
+You can get 50, yes, more than ***50*** certificates or badges from this awesome repository of training.  
 
-And, after 3 years we got more than 1.7k stars
+After 3 years, this collection has more than 1.7k stars:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=joseadanof/awesome-cloudnative-trainings&type=Date)](https://star-history.com/#joseadanof/awesome-cloudnative-trainings&Date)
 
@@ -61,8 +61,8 @@ And, after 3 years we got more than 1.7k stars
 * Practical Observability - [Course + Certificate](https://academy.o11y.io/courses/practical-observability)
 
 ###### **Cockroach Labs**
-* Introduction to Distrbuited SQL and CockroachDB  - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about)
-* Practical First Steps with CockroachDB  - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+practical-first-steps-with-crdb+self-paced/about)
+* Introduction to Distributed SQL and CockroachDB - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about)
+* Practical First Steps with CockroachDB - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+practical-first-steps-with-crdb+self-paced/about)
 
 ###### **IBM Cognitive Class**
 * Docker Essentials - [Course + Badge](https://cognitiveclass.ai/courses/docker-essentials)
@@ -91,26 +91,31 @@ And, after 3 years we got more than 1.7k stars
 ###### **Kasten Learning**
 * Kubernetes Badges (Apprentice, Defender, Helmsman, Contender, Protector, Surveyor, Architect, Rookie and Explorer) - [Labs + Badges](https://learning.kasten.io/)
 
+###### **Styra Academy**
+* Microservices Authorization with Styra - [Course + Certificate](https://academy.styra.com/courses/microservice)
+* OPA Policy Authoring - [Course + Certificate](https://academy.styra.com/courses/opa-rego)
+* OPA by Example - [Course + Certificate](https://academy.styra.com/courses/opa-by-example)
+* OPA + Kubernetes Admission Control - [Course + Certificate](https://academy.styra.com/courses/opa-k8s-admission-control)
+* Terraform Compliance with OPA + Styra - [Course + Certificate](https://academy.styra.com/courses/terraform-terraform-compliance-with-opa)
+* Microservice Authorization with OPA + Styra - [Course + Certificate](https://academy.styra.com/courses/microservice-authorization-with-opa)
+* OPA Performance - [Course + Certificate](https://academy.styra.com/courses/opa-performance)
+* OPA Oops: Avoiding Pitfalls - [Course + Certificate](https://academy.styra.com/courses/opa-oops)
+
 ###### **solo.io Academy**
-
-*On-demand Workshops:*
-
-*Istio*
-* Get Started with Istio (with Fundamentals for Istio Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-istio)
-* Deploy Istio for Production (with Intermediate for Istio Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/path/istio-certification-courses/deploy-istio-for-production)
-* Get Started with Istio Ambient Mesh (with Istio Ambient Mesh Foundation Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-istio-ambient-mesh-with-istio-ambient-mesh-foundation-certification)
-
-*Cilium*
-* Introduction to Cilium (with Fundamentals for Cilium Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/introduction-to-cilium-with-fundamentals-for-cilium-certification)
-
-*Envoy*
-* Get Started with Envoy Proxy (with Fundamentals for Envoy Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-envoy-proxy-with-fundamentals-for-envoy-certification)
-
-*eBPF*
-* Get Started with eBPF (with Fundamentals for eBPF Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-ebpf-with-fundamentals-for-ebpf-certification)
-
-*Upcoming Events:*
-[Conferences - Live Streams - Webinars - Instructor led workshops](https://www.solo.io/events/upcoming/#workshops)
+* API Gateway Basics - [Hands-on Workshop Lab](https://www.solo.io/resources/lab/solo-academy-course-api-gateway-basics)
+* Envoy Basics - [Hands-on Workshop Lab](https://www.solo.io/resources/lab/solo-academy-course-envoy-basics)
+* Service Mesh Basics - [Hands-on Workshop Lab](https://www.solo.io/resources/lab/solo-academy-course-service-mesh-basics)
+* Istio Basics - [Hands-on Workshop Lab](https://www.solo.io/resources/lab/solo-academy-course-istio-basics)
+* Get Started with Istio Service Mesh - [Hands-on Workshop Lab](https://www.solo.io/resources/lab/solo-academy-course-get-started-with-istio-service-mesh)
+* Deploying Istio for Production - [Hands-on Workshop Lab](https://www.solo.io/resources/lab/solo-academy-course-deploying-istio-for-production)
+* Getting Started with Ambient Mesh - [Hands-on Workshop Lab](https://www.solo.io/resources/lab/getting-started-with-ambient-mesh)
+* Understanding the Basics of Kubernetes Gateway API with kgateway - [Hands-on Workshop Lab](https://www.solo.io/resources/lab/understanding-the-basics-of-kubernetes-gateway-api-with-kgateway)
+* Get Started with Istio (Fundamentals for Istio Certification) - [Hands-on Workshop Lab + Quiz for Credly Badge](https://academy.solo.io/get-started-with-istio)
+* Deploy Istio for Production (Intermediate for Istio Certification) - [Hands-on Workshop Lab + Quiz for Credly Badge](https://academy.solo.io/path/istio-certification-courses/deploy-istio-for-production)
+* Get Started with Istio Ambient Mesh (Istio Ambient Mesh Foundation Certification) - [Hands-on Workshop Lab + Quiz for Credly Badge](https://academy.solo.io/get-started-with-istio-ambient-mesh-with-istio-ambient-mesh-foundation-certification)
+* Introduction to Cilium (Fundamentals for Cilium Certification) - [Hands-on Workshop Lab + Quiz for Credly Badge](https://academy.solo.io/introduction-to-cilium-with-fundamentals-for-cilium-certification)
+* Get Started with Envoy Proxy (Fundamentals for Envoy Certification) - [Hands-on Workshop Lab + Quiz for Credly Badge](https://academy.solo.io/get-started-with-envoy-proxy-with-fundamentals-for-envoy-certification)
+* Get Started with eBPF (Fundamentals for eBPF Certification) - [Hands-on Workshop Lab + Quiz for Credly Badge](https://academy.solo.io/get-started-with-ebpf-with-fundamentals-for-ebpf-certification)
 
 ###### **Tigera - Calico Certification**
 * Certified Calico Operator: Level 1 (Kubernetes Networking and Security) - [Training + Certification](https://academy.tigera.io/course/certified-calico-operator-level-1/)
@@ -120,7 +125,7 @@ And, after 3 years we got more than 1.7k stars
 ###### **Progress Chef**
 * Chef Principles Certification - [Training](https://learn.chef.io/tracks) | [Certification](https://learn.chef.io/courses/course-v1:chef+CP101+exam/about)
 
-###### **Gremlim**
+###### **Gremlin**
 * Chaos Engineering Practitioner Certificate Program - [Training](https://www.gremlin.com/webinars/gremlin-certificate-prep-session) | [Certification](https://gremlin.coassemble.com/unlock/7Jan8Su)
 
 ###### **Gitlab Level Up**
@@ -132,6 +137,9 @@ And, after 3 years we got more than 1.7k stars
 ###### **New Relic**
 * Full Stack Observability Certificate - [Certification](https://learn.newrelic.com/full-stack-observability-exam)
 
+###### **FinOps Foundation**
+* FinOps Training & Certification Recommendations - [Training + Certification Paths](https://www.finops.org/training-certification/recommended/)
+* Introduction to FinOps - [Course](https://learn.finops.org/introduction-to-finops)
 
 ## Trainings
 
@@ -140,21 +148,18 @@ And, after 3 years we got more than 1.7k stars
 
 ###### **RedHat Developer**
 * Cloud Native Tutorials - [Training](https://redhat-scholars.github.io/cloudnative-tutorials/index.html)
+
 ###### **FreeCodeCamp**
 * Kubernetes Cloud Native Associate Certification Course by ExamPro - [Video Course](https://youtu.be/AplluksKvzI)
 
 ###### **Grafana University**
-* Observability Trainings - [Training](https://grafanalabs.learnondemand.net/Organization/CourseCatalog/5173?run=1#%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A20%2C%22filter%22%3A%22%22%2C%22subscriptionProfileIds%22%3A%5B%5D%2C%22tagInputIds%22%3A%5B%5D%2C%22tagsJson%22%3Anull%2C%22bookmarks%22%3Anull%7D)
-
-###### **Styra Academy**
-* Microservices Authorization with Styra - [Training](https://academy.styra.com/courses/microservice)
-* OPA Policy Authoring - [Training](https://academy.styra.com/courses/opa-rego)
+* Observability Trainings - [Training](https://grafanalabs.learnondemand.net/Organization/CourseCatalog/5173?run=1)
 
 ###### **Traefik Academy**
 * Master Traefik with K3S - [Training](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
 
 ###### **The Linux Foundation**
-* Introduction to Cilium - [Training]https://www.edx.org/es/course/introduction-to-cilium
+* Introduction to Cilium - [Training](https://www.edx.org/es/course/introduction-to-cilium)
 * Introduction to Istio - [Training](https://www.edx.org/course/introduction-to-istio)
 * Introduction to GitOps - [Training](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/?utm_source=lftraining&utm_medium=pressrelease&utm_campaign=lfs169)
 * Introduction to Service Mesh with Linkerd - [Training](https://training.linuxfoundation.org/training/introduction-to-service-mesh-with-linkerd-lfs143/)
@@ -187,7 +192,7 @@ And, after 3 years we got more than 1.7k stars
 ###### **Datastax Academy**
 * Apache Cassandra Developer - [Training](https://academy.datastax.com/#/online-courses/ca2e1209-510b-44a6-97de-d5219d835319)
 * Apache Cassandra Administrator - [Training](https://academy.datastax.com/#/online-courses/6167eee3-0575-4d88-9f80-f2270587ce23)
-* Apache Cassandra Operations in K8S -  [Training](https://www.datastax.com/learn/apache-cassandra-operations-in-kubernetes)
+* Apache Cassandra Operations in K8S - [Training](https://www.datastax.com/learn/apache-cassandra-operations-in-kubernetes)
 
 ###### **VMWare Kube Academy**
 * Kubernetes-related courses - [VMWare Kube Academy](https://kube.academy/courses)
@@ -196,7 +201,7 @@ And, after 3 years we got more than 1.7k stars
 * Shift Left DevOps - [Training](https://www.aquasec.com/cloud-native-academy/devsecops/shift-left-devops/)
 
 ## Contributions
-Open to suggestions, enhancements and collaborations, open a PR and make your contributions.
+Open to suggestions, enhancements, and collaborations. Open a PR to make your contributions.
 
 ## License
 [Awesome Cloud Native Trainings](https://github.com/joseadanof/awesome-cloudnative-trainings/) by [@joseadanof](https://github.com/joseadanof) is licensed under CC BY 4.0
